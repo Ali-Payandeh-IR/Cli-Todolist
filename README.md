@@ -16,7 +16,7 @@ A beautiful terminal-based Todo List application with Persian/English support.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/todo-manager.git
+git clone https://github.com/Ali-Payandeh-IR/todo-manager.git
 cd todo-manager
 ```
 
